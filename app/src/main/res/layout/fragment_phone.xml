@@ -31,7 +31,7 @@
         android:layout_width="205dp"
         android:layout_height="50dp"
         android:background="#09FF29"
-        android:text="INCOMING"
+        android:text="@string/incoming"
         android:textColorLink="#28F114"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
