@@ -37,8 +37,8 @@
 
     <fragment
         android:id="@+id/navigation_message"
-        tools:layout="@layout/fragment_message"
-        android:name="com.example.fragments.Fragments.MessageFragment"
+        tools:layout="@layout/fragment_phone"
+        android:name="com.example.fragments.Fragments.PhoneFragment"
         android:label="MessageFragment" />
 
 </navigation>

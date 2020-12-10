@@ -20,9 +20,9 @@
     />
 
     <item
-        android:id="@+id/navigation_message"
-        android:icon="@drawable/ic_baseline_message_24"
-        android:title="Message"
+        android:id="@+id/navigation_phone"
+        android:icon="@drawable/ic_baseline_local_phone_24"
+        android:title="Phone"
         />
 
 </menu>
